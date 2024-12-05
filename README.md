@@ -21,7 +21,7 @@ The platform combines modern web technologies and advanced natural language proc
 - **Docker**: For containerized deployment to ensure scalability and consistency.  
 
 ### **NLP Features**  
-- Training the **LLaMA 3.2 1B** model (Large Language Model Meta AI, 3.2 Billion parameters) using **PyTorch** and **Python** to:  
+- Training the **meta-llama/Llama-3.2-1B** model (Large Language Model Meta AI, 3.2 Billion parameters) using **PyTorch** and **Python** to:  
   - Automatically summarize texts and book reviews.  
   - Provide concise and meaningful insights to enhance the platform's user experience.  
 
